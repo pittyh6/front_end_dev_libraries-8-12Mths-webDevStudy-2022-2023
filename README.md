@@ -1,10 +1,10 @@
 # Web Developer Study
 ## 12 months web developer study. I decided to dedicate at least 12 months to learn web development.
-## Course (JavaScript Algorithms and Data Structures - freeCodeCamp
+## Course Front End Development Libraries - freeCodeCamp
 
 ![Begin Banner](/Documentation/top-1200x350.gif)
 
-### Fifth Month / Sprint(Oct 17/10 - 30/10) 
+### Eighth  Month / Sprint() 
 * Online courses, challenges and creation of my own projects.
 
 <!-- 
@@ -31,7 +31,7 @@
 
 
  ## Project + Result 
-* Basic JavaScript Coding [link]()
+* 
 
 
 ## Previous Projects
@@ -46,6 +46,7 @@
 * (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023) (SASS & BEM - coder coder)
 * (3 mth) & (4 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3e4-12Mths-WebDevStudy-2022-2023) (freeCodeCamp (New) Responsive Web Design)
 * (4 mth) & (5 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023) (freeCodeCamp - JavaScript Algorithms and Data Structures)
+* (6 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/job_listings_with_filtering_6-12Mths-WebDevStudy-2022-2023) (Job Listing - frontend Mentor Challenge)
 
 
 <!-- 
