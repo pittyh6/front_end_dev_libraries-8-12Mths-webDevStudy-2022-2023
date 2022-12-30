@@ -9,7 +9,23 @@
 
 
 ## What I learned/used (Link for details)
-* Bootstrap
+    - Bootstrap
+- container-fluid
+- color
+- font awesome
+- col-xs-*
+- button
+- class
+    - btn
+    - text
+        - primary
+        - info
+        - danger
+        - default
+        - center
+- well
+- id
+- target
 <!-- 
 * JavaScript [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 * ES6 / ES2015 [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/blob/master/learnedES6-ES2015.md)
