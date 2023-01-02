@@ -73,14 +73,28 @@ $colors: (
   }
 }
 
-
 // 7 ---------
-$x:1;
-@while $x <= 5{
-    .text-#{$x} {font-size: 15px * $x;}
-    $x: $x + 1;
+$x: 1;
+@while $x <= 5 {
+  .text-#{$x} {
+    font-size: 15px * $x;
+  }
+  $x: $x + 1;
 }
 
-
 // 8 ---------
-@import 'variables'
+@import "variables";
+
+// 9 ---------
+h3 {
+  text-align: center;
+}
+.info {
+  width: 200px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+.info-important{
+  @extend .info;
+  background-color: magenta;
+}
