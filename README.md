@@ -43,6 +43,19 @@
 - html()
 - appendTo()
 - clone()
+
+##
+    - SASS
+- @mixins
+- @if, @else if, @else
+- @include
+- @extend
+- @for loop
+- @each loop
+- @while loop
+
+
+
 <!-- 
 * JavaScript [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 * ES6 / ES2015 [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/blob/master/learnedES6-ES2015.md)
