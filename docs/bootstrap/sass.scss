@@ -49,3 +49,9 @@ $text-color: red;
     background-color: red;
     @include border-stroke(medium);
   }
+
+
+  // 5 ---------
+@for $j from 1 to 6{
+    .text-#{$j} {font-size: 15px * $j;}
+}
