@@ -26,6 +26,23 @@
 - well
 - id
 - target
+
+##
+    - JQuery
+- target element
+    - id #
+    - class .
+    - parent()
+    - children()
+    - nth-child(n)
+- addClass()
+- removeClass()
+- css()
+- prop()
+- remove()
+- html()
+- appendTo()
+- clone()
 <!-- 
 * JavaScript [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
 * ES6 / ES2015 [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/blob/master/learnedES6-ES2015.md)
