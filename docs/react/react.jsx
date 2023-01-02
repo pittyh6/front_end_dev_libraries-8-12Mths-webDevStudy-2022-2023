@@ -4,7 +4,7 @@ const hello = <h1>Hello JSX!</h1>;
 
 
 // 2 ---------
-const JSX = <div>
+const JSX = (<div>
     <h1>H1 Text</h1>
     <p>Paragraph Text</p>
     <ul>
@@ -12,4 +12,6 @@ const JSX = <div>
         <li>List 2</li>
         <li>List 3</li>
     </ul>
-</div>
+</div>);
+
+// 3 ---------
