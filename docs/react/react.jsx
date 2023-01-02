@@ -23,5 +23,6 @@ const JSX = (
           <p>Here's a subtitle</p>
         </div>
       );
+      ReactDOM.render(JSX, document.getElementById('root'))
 }
 
