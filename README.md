@@ -100,7 +100,7 @@
 * (3 mth) & (4 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3e4-12Mths-WebDevStudy-2022-2023) (freeCodeCamp (New) Responsive Web Design)
 * (4 mth) & (5 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023) (freeCodeCamp - JavaScript Algorithms and Data Structures)
 * (6 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/job_listings_with_filtering_6-12Mths-WebDevStudy-2022-2023) (Job Listing - frontend Mentor Challenge)
-
+* (8 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/react-scrimba-8-12Mths-webDevStudy-2022-2023)(react - scrimba)
 
 <!-- 
 ## Management Tools
@@ -108,7 +108,7 @@
 -->
 
 ## Tools
-<img src= Documentation/jira.png  height="90" width="100" ><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90"><img src= Documentation/photoshop.png  height="90" width="100"><img src= Documentation/js.png  height="90" width="100"><img src= Documentation/jquery.png  height="90" width="100">
+<img src= Documentation/jira.png  height="90" width="100" ><img src= Documentation/vscode.png  height="90" width="100"><img src= Documentation/html.png  height="90" width="90"><img src= Documentation/css.png  height="90" width="90"><img src= Documentation/photoshop.png  height="90" width="100"><img src= Documentation/js.png  height="90" width="100"><img src= Documentation/jquery.png  height="90" width="100"><img src= Documentation/react.png  height="90" width="100">
 
 
 <br>
