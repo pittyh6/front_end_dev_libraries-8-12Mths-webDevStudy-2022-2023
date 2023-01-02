@@ -4,4 +4,14 @@
 
 .blog-post h2 {
   color: red;
+}
+.blog-post p {
+  color: blue;
+}
+
+#awesome {
+  width: 150px;
+  height: 150px;
+  background-color: green;
+  border-radius: 15px;
 }/*# sourceMappingURL=sass.css.map */
