@@ -2,7 +2,6 @@
   text-align: center;
 }
 
-.blog-post,
-h2 {
+.blog-post h2 {
   color: red;
 }/*# sourceMappingURL=sass.css.map */
