@@ -30,41 +30,45 @@ $text-color: red;
   @include border-radius(15px);
 }
 
-
 // 4 ---------
-@mixin border-stroke($val){
-    @if $val == light {
-      border: 1px solid black;
-    }@else if $val == medium {
-      border: 3px solid black;
-    }@else if $val == heavy{
+@mixin border-stroke($val) {
+  @if $val == light {
+    border: 1px solid black;
+  } @else if $val == medium {
+    border: 3px solid black;
+  } @else if $val == heavy {
     border: 6px solid black;
-    }@else{
-      border: none;
-    }
+  } @else {
+    border: none;
+  }
 }
 #box {
-    width: 150px;
-    height: 150px;
-    background-color: red;
-    @include border-stroke(medium);
-  }
-
-
-  // 5 ---------
-@for $j from 1 to 6{
-    .text-#{$j} {font-size: 15px * $j;}
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  @include border-stroke(medium);
 }
 
-
-
-  // 6 ---------
-  div {
-    height: 200px;
-    width: 200px;
+// 5 ---------
+@for $j from 1 to 6 {
+  .text-#{$j} {
+    font-size: 15px * $j;
   }
-$colors: (color1: blue, color2: black, color3: red);
+}
 
-  @each $key, $color in $colors{
-    .#{$color}-bg {background-color: $color;}
+// 6 ---------
+div {
+  height: 200px;
+  width: 200px;
+}
+$colors: (
+  color1: blue,
+  color2: black,
+  color3: red,
+);
+
+@each $key, $color in $colors {
+  .#{$color}-bg {
+    background-color: $color;
   }
+}
