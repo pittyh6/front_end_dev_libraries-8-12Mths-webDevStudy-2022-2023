@@ -14,4 +14,11 @@
   height: 150px;
   background-color: green;
   border-radius: 15px;
+}
+
+#box {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  border: 3px solid black;
 }/*# sourceMappingURL=sass.css.map */
